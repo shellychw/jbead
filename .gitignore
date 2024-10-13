@@ -15,3 +15,12 @@ jdk_win_full/
 jdk_linux_full/
 jdk_macos_full/
 jbead_*.tar.gz
+.gitattributes
+.idea/
+
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
